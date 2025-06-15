@@ -1,0 +1,31 @@
+# Bug Report - Temu Shopping Cart Testing
+
+## Bug ID: N/A  
+**Title:** No bugs found during manual cart functionality testing  
+**Project:** Temu Cart Testing  
+**Reported by:** Dinuwara Muthumaldeniya  
+**Date:** 2025-06-01 
+**Severity:** N/A  
+**Priority:** N/A
+
+---
+
+### Description  
+Manual testing was conducted on Temu’s shopping cart features. All test cases passed with expected outcomes. No bugs were found.
+
+### Steps to Reproduce  
+1. Navigate to temu.com  
+2. Search and add items to cart  
+3. Update quantity, remove item, view cart
+
+### Expected Result  
+Each function works as intended: adds items, updates totals, and shows correct cart state
+
+### Actual Result  
+All features worked as expected. No issues found.
+
+### Screenshots  
+N/A
+
+### Notes  
+This confirms stable cart functionality.
